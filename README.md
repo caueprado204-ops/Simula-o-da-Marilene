@@ -8,6 +8,7 @@ Desenvolvido por **Cauê Prado**.
 
 - **Sirene** de ambulância realista, com 3 tipos: *Ambulância (mista)*, *Toque longo* e *Toque rápido*. Enquanto toca, as bordas da tela piscam em vermelho e azul.
 - **Campainha** de entrada de paciente, com 3 tipos: *Dim-dom*, *Aviso 3 notas* e *Sensor de porta*. Ao tocar, aparece uma animação: a ambulância chega, as portas do hospital abrem e a maca entra.
+- **Outros:** botão pequeno de **choro de bebê**.
 - A **Marilene** fica em destaque na tela.
 - **Modos dos botões:**
   - *Segurar*: toca enquanto estiver pressionado.
@@ -21,6 +22,7 @@ Desenvolvido por **Cauê Prado**.
 |---|---|
 | `1` | Sirene |
 | `2` | Campainha |
+| `3` | Choro de bebê |
 | `Esc` / `Espaço` | Parar todos os sons |
 | `M` | Mudo |
 | `↑` / `↓` | Volume |
